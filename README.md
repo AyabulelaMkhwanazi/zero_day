@@ -1,1 +1,1 @@
-This project prints the core operating system
+_This project prints the core operating system_
